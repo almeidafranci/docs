@@ -11,16 +11,16 @@
 <a name="server-requirements"></a>
 ### Requisitos do Servidor
 
-The Laravel framework has a few system requirements. Of course, all of these requirements are satisfied by the [Laravel Homestead](/docs/{{version}}/homestead) virtual machine, so it's highly recommended that you use Homestead as your local Laravel development environment.
+O framework Laravel possui alguns requisitos de sistema. É claro que todos esses requisitos são satisfeitos pela máquina virtual [Laravel Homestead](/docs/{{version}}/homestead), portanto é altamente recomendado que você utilize Homestead como o seu ambiente de desenvolvimento local.
 
-However, if you are not using Homestead, you will need to make sure your server meets the following requirements:
+Contudo, se você não estiver utilizando Homestead, você deverá ter certeza que seu servidor corresponde aos seguintes requisitos:
 
 <div class="content-list" markdown="1">
 - PHP >= 5.6.4
-- OpenSSL PHP Extension
-- PDO PHP Extension
-- Mbstring PHP Extension
-- Tokenizer PHP Extension
+- Extensão PHP OpenSSL
+- Extensão PHP PDO
+- Extensão PHP Mbstring
+- Extensão PHP Tokenizer
 </div>
 
 <a name="installing-laravel"></a>
